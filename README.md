@@ -54,7 +54,7 @@ All FiveM resources published here are available for **free use**.
 
 ## 📩 Contact & Social
 
-* **Discord:** `janmusic123r` *(Please replace with your actual Discord name)*
+* **Discord:** `janmusic123` *(Please replace with your actual Discord name)*
 * **Follow Me:** For new projects and updates
 
 ---
