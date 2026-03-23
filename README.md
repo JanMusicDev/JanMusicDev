@@ -11,9 +11,8 @@ I focus on developing seamless and highly optimized server systems. My drive is 
 ### Core Competencies (FiveM & Scripting)
 
 * ⚡ **Lua** 
-* 🌐 **HTML5, CSS3, JavaScript** 
+* 🌐 **HTML5, CSS, JavaScript, React, Tailwindcss** 
 * 🎮 **Frameworks:** Expert knowledge in ESX and QB-Core
-* 📦 **Utilities:** Focused use of `ox_lib` for improved interaction
 
 ### General Languages
 
